@@ -1,0 +1,28 @@
+# For Spotify API integration
+spotipy==2.22.1
+
+# For YouTube integration
+yt-dlp==2024.9.27
+
+# For database management
+#sqlite3
+
+# For IPython (if you want enhanced interactive shell)
+ipython==8.12.0
+
+# For additional utilities
+requests==2.31.0
+flask==2.3.3
+flask_sqlalchemy==2.5.1
+
+# For data handling
+pandas==2.1.0
+
+# For JSON handling
+simplejson==3.19.1
+
+# For handling asynchronous requests (if needed)
+aiohttp==3.8.5
+
+# For GUI (if using Tkinter or another library)
+tkinter
