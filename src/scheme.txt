@@ -1,0 +1,25 @@
+Entidades:
+    - Track -> Representa una abstracción de una canción.
+        - Atributos:
+            - Nombre
+            - Autor/es
+            - Album/EP
+            - Longitud
+            [ - Calidad
+              - Source
+              ] -> Metadatos
+
+    - Playlist -> Colección de tracks (YT/Spotify)
+        - Atributos:
+            - Nombre
+            - Tracks []
+            - Creador
+            - Fecha creación
+            - Fechas de cuándo se añadieron
+
+    - Metadatos -> ~
+
+    - User -> Datos de usuario
+        - Atributos:
+            - Nombre
+            - 
